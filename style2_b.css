@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: aqua;
+    font-size: medium;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.input-botones {
+    background-color: black;
+    color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+input {color: black;
+font-weight: 300;}
+
+.titulo {
+    color: blue;
+    font-size: large;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.boton{
+    color: rgb(255, 0, 119);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.resultado{
+      color: chartreuse;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: large;
+      display: flex;
+      justify-content: center;
+}
+    
