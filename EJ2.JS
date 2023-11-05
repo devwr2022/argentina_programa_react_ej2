@@ -1,4 +1,4 @@
-suma (2,2,1);
+//suma (2,0,callback());
 
 function suma (a,b,callback){
     let c = a +b;
@@ -11,7 +11,7 @@ function suma (a,b,callback){
 
 //¿En que casos es obligatorio desarrollar este tipo de funciones?
 //Realizar un llamado a la función de ejemplo.
-randomNumber(2);
-function randomNumber(number) {
-    return Math.floor(Math.random()*number);
-    }
+//randomNumber(2);
+//function randomNumber(number) {
+  //  return Math.floor(Math.random()*number);
+    //}
